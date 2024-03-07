@@ -1,4 +1,4 @@
-# Scraping-product-feedback-from-Nigeria-s-biggest-e-commerce-website-Jumia-
+# Scraping-product-feedback-from-Nigeria-biggest-e-commerce-website-Jumia-
 Scraping product feedback from Nigeria's biggest e-commerce website (Jumia)
 ## Method and Steps
 
